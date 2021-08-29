@@ -1,6 +1,6 @@
 server.port: 8083
 spring:
   application:
-    name: rating-data-service
+    name: ratings-data-service
 api:
   key: api-key-here
